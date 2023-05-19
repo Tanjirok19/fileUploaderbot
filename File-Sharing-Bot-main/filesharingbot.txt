@@ -1,0 +1,14 @@
+[19-May-23 13:22:21 - WARNING] - bot - Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+[19-May-23 13:22:21 - WARNING] - bot - Bot can't Export Invite link from Force Sub Channel!
+[19-May-23 13:22:21 - WARNING] - bot - Please Double check the FORCE_SUB_CHANNEL value and Make sure Bot is Admin in channel with Invite Users via Link Permission, Current Force Sub Channel Value: -1001558847911
+[19-May-23 13:22:21 - INFO] - bot - 
+Bot Stopped. Join https://t.me/CodeXBotzSupport for support
+[19-May-23 13:26:59 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[19-May-23 13:29:12 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[19-May-23 13:29:12 - INFO] - bot - Logging message without non-ASCII characters
